@@ -8,7 +8,7 @@ To install via composer, add these to your composer.json:
 ```javascript
 {
     "require": {
-        qdigital/qdigital-muplugin-admin-columns": "dev-master"
+        "qdigital/qdigital-muplugin-admin-columns": "dev-master"
     },
     "repositories": [
         {
